@@ -1,4 +1,5 @@
 # old-page
+###### Discontinuada
 ## Página simple realizada en 2016
 ##### Se utilizó HTML5, CSS3 y Bootstrap
 En el diseño de esta página se utilizó un template de w3schools.
